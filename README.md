@@ -32,10 +32,6 @@
 * 여행플래너 작성 시 모든 지역선택과 최대 4일이라는 플랜을 계획할 수 있다.
 * 여행 리스트 목록은 전체뿐 아니라 지역별로 검색이 가능하다.
 
-## 기여 방법
-
-🔗 (<https://github.com/2jonghyun/FinalProject/fork>)을 포크합니다.
-
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
